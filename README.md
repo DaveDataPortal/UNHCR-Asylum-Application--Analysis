@@ -1,4 +1,3 @@
-```markdown
 # Analysis of UNHCR Asylum Application Data (2010-2023)
 
 This project analyzes the asylum application data provided by the United Nations High Commissioner for Refugees (UNHCR) from 2010 to 2023. The analysis aims to provide insights into various aspects of asylum applications, including the countries of origin, destination countries, application types, and processing entities.
@@ -41,9 +40,7 @@ To run this analysis, you will need the following dependencies:
 
 You can install the required dependencies using pip:
 
-```
 pip install pandas numpy matplotlib seaborn
-```
 
 ## Usage
 
@@ -60,4 +57,3 @@ Contributions to this project are welcome. If you find any issues or have sugges
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
